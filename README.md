@@ -3,9 +3,9 @@
 # template-diw-20251-semana-02
 
 ## Informações Gerais
-- Nome: 
-- Matricula:
+- Nome: VINICIUS QUEIROS PERPETUO
+- Matricula: 894554
 
 ## Print da tela da página criada (Curriculum Vitae)
 
-`<Coloque aqui o print da tela de inspeção do seu navegador>`
+![tela de inspeção](public/Captura%20de%20tela%202025-08-24%20014315.png)

@@ -1,0 +1,35 @@
+body{
+    font-family:'Times New Roman', Times, serif;
+    background-color:#FFF4D4 ;
+    
+
+}   
+
+img{
+    width: 150px;
+    margin-right: 20px;
+}
+
+header{
+    
+    background-color:#F2DCC2 ;
+    height: 150px;
+    display: flex;
+    align-items: center;
+    
+}
+
+main{
+    float: right;
+    width: 80%;
+    
+}
+   
+
+aside{
+    
+    width: 300px;
+    float: left;
+    
+      
+}
